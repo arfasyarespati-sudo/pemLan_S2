@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HealthPoints",
+            "request": "launch",
+            "mainClass": "ObjectOriented.Exercise.HealthPoints",
+            "projectName": "Pemlan_8580edd8"
+        },
+        {
+            "type": "java",
             "name": "latihanlagi",
             "request": "launch",
             "mainClass": "ObjectOriented.Exercise.latihanlagi",

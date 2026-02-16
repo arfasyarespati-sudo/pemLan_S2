@@ -1,6 +1,6 @@
 package ObjectOriented.Exercise;
 
-public class latihanlagi {
+public class PhoneSystem {
     public static void main(String[] args) {
         smartPhone smartphone1 = new smartPhone("Samsung", "A17", 400000);
         smartPhone smartphone2 = new smartPhone("Iphone", "15 Pro", 900000);
