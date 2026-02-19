@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Project2",
+            "request": "launch",
+            "mainClass": "ObjectOriented.Exercise.Project2",
+            "projectName": "Pemlan_8580edd8"
+        },
+        {
+            "type": "java",
             "name": "BossRaid",
             "request": "launch",
             "mainClass": "ObjectOriented.Exercise.BossRaid",
