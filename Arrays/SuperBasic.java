@@ -32,7 +32,7 @@ public class SuperBasic {
             total += nilai[i];
 
             System.out.println("Rata-rata nilai Kelas: " + total / jumlah);
-            System.out.println("Nilai tertinggi di kelas: ");
+            
         }
     }
 }
