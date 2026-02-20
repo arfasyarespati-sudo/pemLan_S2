@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RegresiLinear",
+            "request": "launch",
+            "mainClass": "DSC.RegresiLinear",
+            "projectName": "Pemlan_8580edd8"
+        },
+        {
+            "type": "java",
+            "name": "KompresiPesan",
+            "request": "launch",
+            "mainClass": "DSC.KompresiPesan",
+            "projectName": "Pemlan_8580edd8"
+        },
+        {
+            "type": "java",
+            "name": "experimental",
+            "request": "launch",
+            "mainClass": "ObjectOriented.Experimental.experimental",
+            "projectName": "Pemlan_8580edd8"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "DSC.Sum",
+            "projectName": "Pemlan_8580edd8"
+        },
+        {
+            "type": "java",
+            "name": "SuperBasic",
+            "request": "launch",
+            "mainClass": "Arrays.SuperBasic",
+            "projectName": "Pemlan_8580edd8"
+        },
+        {
+            "type": "java",
             "name": "Project2",
             "request": "launch",
             "mainClass": "ObjectOriented.Exercise.Project2",
