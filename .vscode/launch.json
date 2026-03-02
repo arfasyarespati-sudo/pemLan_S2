@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ada",
+            "request": "launch",
+            "mainClass": "DSC.ada",
+            "projectName": "Pemlan_8580edd8"
+        },
+        {
+            "type": "java",
             "name": "RegresiLinear",
             "request": "launch",
             "mainClass": "DSC.RegresiLinear",
