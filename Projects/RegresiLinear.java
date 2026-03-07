@@ -1,4 +1,4 @@
-package DSC;
+package Projects;
 
 import java.util.Scanner;
 import java.util.Locale;
