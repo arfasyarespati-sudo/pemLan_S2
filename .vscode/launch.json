@@ -1,98 +1,126 @@
 {
-    // Use IntelliSense to learn about possible attributes.
-    // Hover to view descriptions of existing attributes.
-    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-    "version": "0.2.0",
-    "configurations": [
-        {
-            "type": "java",
-            "name": "ada",
-            "request": "launch",
-            "mainClass": "DSC.ada",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "RegresiLinear",
-            "request": "launch",
-            "mainClass": "DSC.RegresiLinear",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "KompresiPesan",
-            "request": "launch",
-            "mainClass": "DSC.KompresiPesan",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "experimental",
-            "request": "launch",
-            "mainClass": "ObjectOriented.Experimental.experimental",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "Sum",
-            "request": "launch",
-            "mainClass": "DSC.Sum",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "SuperBasic",
-            "request": "launch",
-            "mainClass": "Arrays.SuperBasic",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "Project2",
-            "request": "launch",
-            "mainClass": "ObjectOriented.Exercise.Project2",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "BossRaid",
-            "request": "launch",
-            "mainClass": "ObjectOriented.Exercise.BossRaid",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "HealthPoints",
-            "request": "launch",
-            "mainClass": "ObjectOriented.Exercise.HealthPoints",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "latihanlagi",
-            "request": "launch",
-            "mainClass": "ObjectOriented.Exercise.latihanlagi",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "Main",
-            "request": "launch",
-            "mainClass": "ObjectOriented.ItemManage.Main",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "pertama",
-            "request": "launch",
-            "mainClass": "ObjectOriented.Experimental.pertama",
-            "projectName": "Pemlan_8580edd8"
-        },
-        {
-            "type": "java",
-            "name": "Current File",
-            "request": "launch",
-            "mainClass": "${file}"
-        }
-    ]
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "MainBank",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Perbankan.MainBank",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "What",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Exercise.What",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "MainBuku",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Exercise.MainBuku",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "MainStudent",
+      "request": "launch",
+      "mainClass": "Praktikum2.MainStudent",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "ada",
+      "request": "launch",
+      "mainClass": "DSC.ada",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "RegresiLinear",
+      "request": "launch",
+      "mainClass": "DSC.RegresiLinear",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "KompresiPesan",
+      "request": "launch",
+      "mainClass": "DSC.KompresiPesan",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "experimental",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Experimental.experimental",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "DSC.Sum",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "SuperBasic",
+      "request": "launch",
+      "mainClass": "Arrays.SuperBasic",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "Project2",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Exercise.Project2",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "BossRaid",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Exercise.BossRaid",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "HealthPoints",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Exercise.HealthPoints",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "latihanlagi",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Exercise.latihanlagi",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "ObjectOriented.ItemManage.Main",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "pertama",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Experimental.pertama",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
 }
