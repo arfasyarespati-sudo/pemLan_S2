@@ -84,30 +84,30 @@ public class Account {
 
     public void setSaldo(int saldo) {
         if (saldo < 0) {
-            System.out.println("Saldo tidak boleh minus!");
+            System.out.println("Saldo Invalid");
         }
         this.saldo = saldo;
     }
 
-    public void tambahSaldo(int jumlah, String password) {
+    public void tambahSaldo(int tambah, String password) {
         if (!password.equals(this.password)) {
             System.out.println("Password salah! Silahkan ulangi transaksi!");
             return;
         }
         System.out.println("Saldo berhasil ditambahkan!");
-        saldo += jumlah;
+        saldo += tambah;
     }
 
-    public void tarikSaldo(int jumlah, String password) {
+    public void tarikSaldo(int tarik, String password) {
         if (!password.equals(this.password)) {
-            System.out.println("Password salah! Tidak dapat melakukan transaksi!");
+            System.out.println("Password salah!, Transaksi gagal..");
             return;
         }
-        if (jumlah > this.saldo) {
-            System.out.println("Saldo tidak cukup. Transaksi gagal!");
+        if (tarik > this.saldo) {
+            System.out.println("Saldo tidak mencukupi, Transaksi gagal..");
             return;
         }
-        this.saldo -= jumlah;
+        this.saldo -= tarik;
         System.out.println("Penarikan saldo berhasil. Sisa saldo sekarang: " + this.saldo);
     }
 
