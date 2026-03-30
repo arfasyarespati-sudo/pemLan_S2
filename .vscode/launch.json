@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Mainn",
+      "request": "launch",
+      "mainClass": "Jaketz.Mainn",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "Mainno",
+      "request": "launch",
+      "mainClass": "ObjectOriented.Exercise.Mainno",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "TestJaket",
+      "request": "launch",
+      "mainClass": "Jaketz.TestJaket",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "TestVehicle1",
+      "request": "launch",
+      "mainClass": "TestVehicle1",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "MainAritmatika",
+      "request": "launch",
+      "mainClass": "MODUL5.MainAritmatika",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
       "name": "MainBank",
       "request": "launch",
       "mainClass": "ObjectOriented.Perbankan.MainBank",
