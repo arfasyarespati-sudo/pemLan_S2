@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MainKue",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM7.MainKue",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
       "name": "MainPrak6",
       "request": "launch",
       "mainClass": "Projects.PRAKTIKUM6.MainPrak6",
