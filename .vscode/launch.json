@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM8.PraktikumCase8.Main",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "MainInterface",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM8.LatihanInterface.MainInterface",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "Rectangle",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM8.Rectangle",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "Mainer",
+      "request": "launch",
+      "mainClass": "Projects.UPCASTER.Mainer",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
       "name": "MainKue",
       "request": "launch",
       "mainClass": "Projects.PRAKTIKUM7.MainKue",
