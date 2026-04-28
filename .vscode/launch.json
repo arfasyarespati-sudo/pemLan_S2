@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FormDaftarUlang",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM9.GUILanjut.FormDaftarUlang",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "mainFrameTugas",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM9.GraphicsUserInterface.mainFrameTugas",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
       "name": "Main",
       "request": "launch",
       "mainClass": "Projects.PRAKTIKUM8.PraktikumCase8.Main",
