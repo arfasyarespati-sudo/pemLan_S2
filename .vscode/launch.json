@@ -6,6 +6,55 @@
   "configurations": [
     {
       "type": "java",
+      "name": "haha",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM10.haha",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "DeleteDir",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM10.DeleteDir",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "FileLister",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM10.FileLister",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "CekUkuran",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM10.CekUkuran",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "TulisFile1",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM10.TulisFile1",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "BacaFile1",
+      "request": "launch",
+      "mainClass": "Projects.PRAKTIKUM10.BacaFile1",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
+      "name": "StackTest",
+      "request": "launch",
+      "mainClass": "DSA.StackTest",
+      "projectName": "Pemlan_8580edd8"
+    },
+    {
+      "type": "java",
       "name": "FormDaftarUlang",
       "request": "launch",
       "mainClass": "Projects.PRAKTIKUM9.GUILanjut.FormDaftarUlang",
